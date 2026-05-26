@@ -1,2 +1,2 @@
 # Wind-Fire-Review
-Please directly download the “Other” table.
+Please directly download the “Others.xlsx” table.
